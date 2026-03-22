@@ -1,4 +1,4 @@
-package com.becks.usefy_AI;
+package com.becks.usefy_AI.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
