@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.becks</groupId>
-	<artifactId>hello-spring</artifactId>
+	<artifactId>Usefy-AI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>

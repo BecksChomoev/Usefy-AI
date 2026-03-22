@@ -1,4 +1,4 @@
-package com.becks.hello_spring;
+package com.becks.usefy_AI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
